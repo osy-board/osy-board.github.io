@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /nonprofit/
 title: nonprofit
 nav: false
