@@ -2,7 +2,6 @@
 layout: page
 permalink: /secretary/
 title: secretary
-description: 
 nav: false
 ---
 **Secretary**
