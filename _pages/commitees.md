@@ -12,10 +12,11 @@ children:
     permalink: /nonprofit/
   - title: divider
   - title: social media
-    permalink: /social media/
+    permalink: /socialmedia/
   - title: divider
   - title: secretary
     permalink: /secretary/
+  - title: divider
   - title: website
     permalink: /website/
   - title: divider
