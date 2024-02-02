@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /meetingnotes/
+title: meeting notes
 nav: true
 nav_order: 5
 pagination:
