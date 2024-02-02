@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /chiefs/
 title: chiefs
 nav: false
