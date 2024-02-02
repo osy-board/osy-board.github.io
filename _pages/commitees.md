@@ -19,7 +19,4 @@ children:
   - title: divider
   - title: website
     permalink: /website/
-  - title: divider
-  - title: socialmedia
-    permalink: /socialmedia/
 ---
