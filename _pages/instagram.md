@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /instagram/
 title: Instagram
 nav: false
