@@ -2,7 +2,7 @@
 layout: page
 title: tech accounts
 permalink: /tech/
-description: tech accounts
+description: osy users/passwords for accounts
 nav: true
 nav_order: 9
 ---
