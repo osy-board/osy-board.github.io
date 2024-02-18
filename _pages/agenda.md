@@ -1,7 +1,7 @@
 ---
 layout: page
-title: agenda
-permalink: /agenda/
+title: tech accounts
+permalink: /tech/
 description: tech accounts
 nav: true
 nav_order: 9
@@ -9,15 +9,15 @@ nav_order: 9
 
 ---
 
-### ongoing projects
-what is up
+### Instagram
+instagram user and password
 
 ---
 
-### hihi
-oijpids
+### facebook
+meta user and password
 
 ---
 
-## third social
-hihi
+## sign up genius
+sign up genius user and password
